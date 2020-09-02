@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ForeverAloneApp</string>
+    <string name="send">Send</string>
+    <string name="message">Enter Your Message Here</string>
+    <string name="reply">Reply</string>
+    <string name="enter_reply">Enter Your Reply Here</string>
+    <string name="message_received">Message Received</string>
+    <string name="reply_received">Reply Received</string>
+    <string name="reply_reveived">\@string/reply_received</string>
+    <string name="clicker">CLICK ME</string>
+    <string name="navigation_clicker">CLICKER</string>
+    <string name="navigation_chat">CHAT</string>
+    <string name="back">BACK</string>
+</resources>
